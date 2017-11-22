@@ -1,2 +1,1 @@
 contenido de b.txt a las 1100
-contenido de b.txt a las 1115
